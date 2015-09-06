@@ -1,15 +1,15 @@
 # Kombat-Training-source
 JS interval timer
 
-Functions:
-  Increase minutes, seconds
-  Add/remove timers
-  Change settings
-  Save/load preferences
-  Sound playback on start/round change/end
+Functions:<br>
+  Increase minutes, seconds<br>
+  Add/remove timers<br>
+  Change settings<br>
+  Save/load preferences<br>
+  Sound playback on start/round change/end<br>
 
 
 //
-Self-notes:
-  *touch screen
+Self-notes:<br>
+  *touch screen<br>
   *localStorage
